@@ -1,1 +1,1 @@
-https://www.jittagornp.me/blog/install-docker-redis-on-ubuntu-18.04/
+https://rugby4.medium.com/c-netcore-redis-caching-e3c1c5c95957
